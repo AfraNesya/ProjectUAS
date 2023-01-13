@@ -174,7 +174,7 @@ public class Main {
 ![hasill](screenshot/hasil.png)
 
 
-Dan scrpit untuk membuat GUI Sederhananya adalah, membuat Tutup.java
+Dan script untuk membuat GUI Sederhananya adalah, membuat Tutup.java
 
 ```java
 public class Tutup extends javax.swing.JFrame {
