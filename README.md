@@ -8,7 +8,7 @@
 
 <p> Berikut adalah diagram yang akan dibuat </p>
 
-![diagram](screenshot/diagram.png)
+![diagram](screenshot/diagram.PNG)
 
 Langkah pertama akan membuat Person.java
 
@@ -171,7 +171,7 @@ public class Main {
 
 <p> Jika dirunning akan menjadi seperti ini </p>
 
-![hasil](screenshot/hasil.png)
+![hasill](screenshot/hasil.png)
 
 
 Dan scrpit untuk membuat GUI Sederhananya adalah, membuat Tutup.java
