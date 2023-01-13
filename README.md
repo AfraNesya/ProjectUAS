@@ -314,3 +314,6 @@ public class Tutup extends javax.swing.JFrame {
 <p> Maka hasil outputnya GUInya adalah<p/>
 
 ![gui](screenshot/gui.png)
+
+<p>Berikut link untuk penjelasan melalui video di youtube</p>
+https://www.youtube.com/watch?v=LRckA_L-H5o
